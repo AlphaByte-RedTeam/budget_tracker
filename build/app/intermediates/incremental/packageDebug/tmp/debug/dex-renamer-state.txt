@@ -1,0 +1,4 @@
+#Fri Apr 22 19:39:51 ICT 2022
+base.0=I\:\\AndrewData\\IT\\GitHub\\budget_tracker\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
